@@ -1,8 +1,6 @@
 # Importância de Boas Anotações
-
-Este é o repositório da API do Projeto BEQ Visão, uma aplicação que oferece recursos de modelos de inteligência
-artificial para detecção e análise de imagens. A API foi desenvolvida para fornecer funcionalidades avançadas
-relacionadas à visão computacional.
+Este é o repositório tem como intenção demonstrar a importância de boas
+anotações para detecção de objeto.
 
 # Introdução
 Para treinarmos uma IA para detecção em imagens necessitamos de um conjunto
