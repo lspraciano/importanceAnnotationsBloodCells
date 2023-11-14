@@ -18,3 +18,8 @@ Usamos a arquitetura Yolov8 para detecção de hemácia nesse trabalho.
 Treinamos um modelo usando imagens com marcações não adequadas e treinamos
 outro modelo usando imagens com as marcações revisadas por mim, deixando
 mais próximas do que eu acho adequado.
+
+
+# Como rodar
+Para executar este notebook, abra-o no Google Colab e ative o suporte para GPU.
+Em seguida, basta executar as células sequencialmente.
